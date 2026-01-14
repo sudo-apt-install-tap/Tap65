@@ -22,9 +22,10 @@ If you’re following along and something doesn’t make sense, ai03’s guide i
 
 ## 📷 Images
 <img width="461" height="525" alt="image" src="https://github.com/user-attachments/assets/2260c5e7-961a-4980-a86c-0ea41ebc50de" />
-- MCU Schematic  <br>
+<br> - MCU Schematic  <br>
 <img width="350" height="367" alt="image" src="https://github.com/user-attachments/assets/a444da92-2f20-4390-b084-f8da4a9fdd47" />
-- USB-C Schematic
+<br> - USB-C Schematic
+
 ---
 
 ## 🚧 Planned Work
@@ -51,3 +52,4 @@ If you want help building your own keyboard or have questions about this project
 
 This is a learning project. Things may break, change, or be redesigned multiple times.  
 That’s part of the process.
+
