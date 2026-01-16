@@ -24,7 +24,11 @@ If you’re following along and something doesn’t make sense, ai03’s guide i
 <img width="461" height="525" alt="image" src="https://github.com/user-attachments/assets/2260c5e7-961a-4980-a86c-0ea41ebc50de" />
 <br> - MCU Schematic  <br>
 <img width="350" height="367" alt="image" src="https://github.com/user-attachments/assets/a444da92-2f20-4390-b084-f8da4a9fdd47" />
-<br> - USB-C Schematic
+<br> - USB-C Schematic <br>
+<img width="1083" height="633" alt="pcb front" src="https://github.com/user-attachments/assets/7236ddc0-6f0d-4e85-9aac-2ac64b53d1a9" />
+<br> - PCB Front <br>
+<img width="1083" height="633" alt="pcb back" src="https://github.com/user-attachments/assets/1a4ad5da-189b-4254-844a-7b76d74fe77b" />
+<br> - PCB Back <br>
 
 ---
 
@@ -52,4 +56,5 @@ If you want help building your own keyboard or have questions about this project
 
 This is a learning project. Things may break, change, or be redesigned multiple times.  
 That’s part of the process.
+
 
