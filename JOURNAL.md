@@ -1,5 +1,17 @@
 # 6/19/2026 11 PM - Added stabalizers and changed other stuff!
 
+_Time spent: 2h_
+
+So today I finally got around to designing the case in Onshape!! I decided to keep it pretty simple and went with a standard 2 piece PLA tray mount case since the PCB was already designed around tray mounting. I also added a 7° typing angle because flat keyboards just don't feel that great to type on.I also filleted the edges around the plate so it doesn't look like a giant brick anymore lol. It honestly made the whole thing look much cleaner than before. Surprisingly I did not have to any major issues! Anyways the case is basically done now! Next thing I'll be working on is the firmware, and after that hopefully I'll be able to get a prototype made!!
+
+<img width="843" height="413" alt="image" src="https://github.com/user-attachments/assets/19169598-c03d-49da-bbef-be4b6f581756" />
+<img width="843" height="413" alt="image" src="https://github.com/user-attachments/assets/724045fb-e096-4512-8686-6f1963e7329c" />
+<img width="654" height="203" alt="image" src="https://github.com/user-attachments/assets/7eddb9a4-db3f-448d-a123-49751fe3a66d" />
+<img width="809" height="320" alt="image" src="https://github.com/user-attachments/assets/eaaf7925-9af5-44d9-977c-6b78e82492d5" />
+<img width="809" height="320" alt="image" src="https://github.com/user-attachments/assets/9e8b4d8a-e3ff-4ccf-9b2e-bc140cf3d125" />
+
+# 6/19/2026 11 PM - Added stabalizers and changed other stuff!
+
 _Time spent: 1h_
 
 So I Added stabalizers as I did not want to use plate mounted ones because they tend to suck. Also i removed the hatched paturn and did a full GND pour, this makes it much more heavier and will probly make it feel pretty premium. Also as this is a 68 key layout I will be using a standard tray mount as it is much easier to design and opporate than a gasket mount. Did not go plateless as that wouldve made it more fragile. Anyways looks pretty good, will move on to case design the next day and yeah we will be done!
@@ -74,28 +86,3 @@ So I did work on the schematic and the some of the pcb layout for the keyboard. 
 
 ![image](https://stasis.hackclub-assets.com/images/1779013710119-1deiqt.png)
 ![image](https://stasis.hackclub-assets.com/images/1779013739489-byjv19.png)
-
-# 1/14/2026 12 PM - Taps65
-
-_Time spent: 3h_
-
-Hey keyboard lovers!!
-## Intro
-Through this project I aim to create a keyboard that is capable of replacing my current daily driver. I am going to be following ai03's guide throughout the entirity of this project if you want to follow through with me you should reffer to his guide for any info that you do not understand. Also I am open to help you make any type of keyboard you want, just shoot me a dm on slack **@taps** or email me at work.tapishnud@gmail.com.
-
-## 14 January 2026
- Today I worked on the schematic, mainly focusing on the MCU and the USB port.
-
-ai03’s guide uses a USB Type-B connector, but I decided to switch to USB Type-C instead. Mostly for convenience—and also because I really don’t want to carry a Type-B cable around just for my keyboard. It’s 2026, we deserve better.
-
-So far, I’ve completed the MCU section and the USB-C implementation. I’ll be iterating on this and adding protection components later, but this felt like a solid first step.
-
-Below are the schematics I worked on today: 
-
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1MjIsInB1ciI6ImJsb2JfaWQifX0=--26a4db1f35223cf6965914c0c246d84a4caa20a2/image.png)
-MCU Schematic  
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1MjMsInB1ciI6ImJsb2JfaWQifX0=--00a4724328d05804050f3cda232ec35b5a40bab3/image.png)
-USB C Schematic
-
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1MjIsInB1ciI6ImJsb2JfaWQifX0=--26a4db1f35223cf6965914c0c246d84a4caa20a2/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1MjMsInB1ciI6ImJsb2JfaWQifX0=--00a4724328d05804050f3cda232ec35b5a40bab3/image.png)
