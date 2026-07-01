@@ -9,7 +9,7 @@ layers = Layers()
 keyboard.modules.append(layers)
 
 # ----------------------------
-# CHANGE THESE TO YOUR PINS
+# will change!
 # ----------------------------
 
 keyboard.col_pins = (
