@@ -682,7 +682,7 @@
       {
         "filename": "pcb.kicad_sch",
         "name": "pcb",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "87537677-a4a1-4084-af15-1e771cc5369f"
       }
     ],
     "used_designators": "",
@@ -691,7 +691,7 @@
   "sheets": [
     [
       "87537677-a4a1-4084-af15-1e771cc5369f",
-      "Root"
+      "pcb"
     ]
   ],
   "text_variables": {},
