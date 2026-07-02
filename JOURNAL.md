@@ -1,6 +1,18 @@
-# 7/1/2026 4 PM - Started Firmware!
+# 7/2/2026 12:45 PM - Wrote The Readme!
 
-*Time spent: 2h*
+*Time spent: 1h*
+
+Today I wrote a proper README for the project, documenting the keyboard's features, design process, bill of materials, and what I learned while building it. I also went back into the CAD model and fixed a few alignment issues between the case, plate, and PCB to make sure everything lines up correctly before manufacturing.
+
+Finished look!
+
+<img width="899" height="382" alt="image" src="https://github.com/user-attachments/assets/9f031004-d081-47d2-af4c-5a91f835d4fa" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/36a34fda-6ab5-4bc1-b7d7-97ea0d03415e" />
+
+
+# 7/1/2026 4 PM - Finished Firmware!
+
+*Time spent: 1h 30mins*
 
 Today I started working on the KMK firmware for the keyboard. I set up the project structure, created the base 68-key keymap, and added a function layer with navigation and function keys. It took a bit of trial and error to understand how KMK handles layers and matrix scanning, but I eventually got a solid starting point. I also cleaned up the Git repository after accidentally committing some generated CAD files that were far too large for GitHub. With the firmware project now set up, the next step is to test the matrix on the actual PCB and begin adding features like RGB lighting and any other quality-of-life improvements.
 
