@@ -132,7 +132,7 @@ So soldering was very mind numbing and tedious, I did take a long time to solder
 <img width="1600" height="900" alt="Initial Neopixles" src="https://github.com/user-attachments/assets/cdca4ee8-0114-4658-bedb-9cea7dd13f75" />
 <img width="1600" height="900" alt="Half Finished PCB" src="https://github.com/user-attachments/assets/d8ef1d06-9c94-46e2-be34-304911d1ce87" />
 
-## Half soldered sockets
+> Half soldered sockets
 
 <img width="900" height="1600" alt="Finished PCB" src="https://github.com/user-attachments/assets/2d85ed51-6ea8-4bec-8707-76b5b2c20533" />
 <img width="900" height="1600" alt="Soldering" src="https://github.com/user-attachments/assets/98bbec54-bc04-49bf-912b-b66089c27251" />
