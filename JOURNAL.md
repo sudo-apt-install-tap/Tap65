@@ -73,11 +73,16 @@ Will work on the art/silkscreen the next time!
 So I Added stabalizers as I did not want to use plate mounted ones because they tend to suck. Also i removed the hatched paturn and did a full GND pour, this makes it much more heavier and will probly make it feel pretty premium. Also as this is a 68 key layout I will be using a standard tray mount as it is much easier to design and opporate than a gasket mount. Did not go plateless as that wouldve made it more fragile. Anyways looks pretty good, will move on to case design the next day and yeah we will be done!
 
 ![image](https://github.com/user-attachments/assets/d9337de5-0cd0-451c-8f7c-92222b012bb2" />
+
 ![image](https://github.com/user-attachments/assets/452edccd-a6e3-44a7-af94-e941d1c5f72b" />
+
 ![image](https://github.com/user-attachments/assets/c220d1da-27cd-4909-875c-2eee7fe110d6" />
+
 ![image](https://github.com/user-attachments/assets/8d150a7d-dae7-4e11-9229-790d00debb39" />
+
 ![image](https://github.com/user-attachments/assets/de928ac4-1ee6-4eb2-9295-9bba2961d62c" />
-![image](https://github.com/user-attachments/assets/a52f4ddf-1c62-45aa-880a-6c35d43a6e29" />
+
+<img width="939" height="282" alt="image" src="https://github.com/user-attachments/assets/d89f2f85-0ee4-4e1d-b9c9-2b5cb599fe6a" />
 
 **Total time spent: 1h**
 
@@ -99,7 +104,7 @@ Today I started working on the KMK firmware for the keyboard. I set up the proje
 
 ![image](https://github.com/user-attachments/assets/91caef53-7288-4ed7-a3ee-3bfb27f7796f)
 
-**Total time spent: 1h 30mins**
+**Total time spent: 1h 30m**
 
 # July 2: Wrote The Readme!
 
@@ -122,7 +127,7 @@ heres some pic:
 <img width="1600" height="900" alt="Keycaps" src="https://github.com/user-attachments/assets/6d85a90a-ca88-4e9a-8e91-652078ad4d7a" />
 <img width="1600" height="900" alt="PCB Stabalizer Fit" src="https://github.com/user-attachments/assets/3ec04747-76bd-477b-ac93-4c31fa97ecbf" />
 
-**Total time spent: 30mins**
+**Total time spent: 30m**
 
 # 17 July: Soldered the hotswap sockets and some neopixles!
 
@@ -146,7 +151,7 @@ So I got the rubber feet(they use this in furniture and shit) but it does give g
 <img width="1200" height="1600" alt="PCB" src="https://github.com/user-attachments/assets/a38199e7-320e-447c-9427-5ea7d63b31f7" />
 <img width="1600" height="1200" alt="grips" src="https://github.com/user-attachments/assets/8d858ab2-4572-453c-9abd-6140c5b185d9" />
 
-**Total time spent: 30mins**
+**Total time spent: 30m**
 
 # 19 July: Soldered the clone pico
 
@@ -154,7 +159,7 @@ I used a clone RPi pico instead of a standard one because the standard one uses 
 
 <img width="1600" height="900" alt="clone soldered on" src="https://github.com/user-attachments/assets/33a6b89a-a98e-4309-b5b8-5ca4e86f5250" />
 
-**Total time spent: 30mins**
+**Total time spent: 30m**
 
 # 20 July: Debugged the neopixles.
 
@@ -163,7 +168,7 @@ So I did something very stupid, the neopixles, sk6812 mini-e and normal sk6812 h
 <img width="1600" height="1200" alt="Finished(withStabs)" src="https://github.com/user-attachments/assets/84fe773d-b7e4-4218-bb99-b0ddc30a03a5" />
 <img width="1200" height="1600" alt="Closeup shot of neopixels" src="https://github.com/user-attachments/assets/757b9129-b660-4c02-9225-6ef90cbbc25f" />
 
-**Total time spent: 2h 30mins**
+**Total time spent: 2h 30m**
 
 # 25 July: assembled the board
 
@@ -172,6 +177,7 @@ So I assembled the board, I just had to melt the two pieces of keyboard together
 <img width="1600" height="1200" alt="Build Pt2" src="https://github.com/user-attachments/assets/3fc2e669-8c0b-4ff9-8b21-827e9ad6b6cd" />
 <img width="1600" height="900" alt="Finished Build" src="https://github.com/user-attachments/assets/863e78e8-6f74-40eb-930f-797b74f15170" />
 
+**Total time spent: 3h**
 
 # 26 July: Lubed the stabilizers!
 
@@ -180,3 +186,5 @@ I just used a rabbit hair brush no 1 to brush some krytox 2O5g into the housing 
 <img width="1600" height="1200" alt="Lubed Stabs" src="https://github.com/user-attachments/assets/4883369a-9a92-483c-98d9-cb306199706f" />
 <img width="1600" height="900" alt="Keyboard after lubing" src="https://github.com/user-attachments/assets/20f92018-414f-418c-bacf-67087a088dbb" />
 https://github.com/user-attachments/assets/0e627ef8-ceec-4c1e-9f21-f2216cf7b69a
+
+**Total time spent: 1h**
