@@ -102,6 +102,9 @@ PCB production ready files availabe in [Production](/fabrication). CAD files ava
 ## Sketch
 <img width="899" height="382" alt="image" src="https://github.com/user-attachments/assets/b394bc86-97e6-4b74-9678-9ab45d89d3c4" /> <br><br>
 
+## Build Images:
+
+### So I did something very stupid, the neopixles, sk6812 mini-e and normal sk6812 have the same looking symbols in KiCAD, BUT the one and only difference is that the pin numbers, according to the datasheet for the mini-e variant it doesn't match, so the connections and traces are faulty. This leads to a failure in the basic pcb which can not be fixed/patched in anyway after production. But still the keyboard works well enough. And I think that was enough yapping, so, heres some pics!!
 
 ## Bill of Materials (BOM)
 
