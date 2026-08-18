@@ -102,9 +102,21 @@ PCB production ready files availabe in [Production](/fabrication). CAD files ava
 ## Sketch
 <img width="899" height="382" alt="image" src="https://github.com/user-attachments/assets/b394bc86-97e6-4b74-9678-9ab45d89d3c4" /> <br><br>
 
-## Build Images:
+## Build Images And Videos:
 
-### So I did something very stupid, the neopixles, sk6812 mini-e and normal sk6812 have the same looking symbols in KiCAD, BUT the one and only difference is that the pin numbers, according to the datasheet for the mini-e variant it doesn't match, so the connections and traces are faulty. This leads to a failure in the basic pcb which can not be fixed/patched in anyway after production. But still the keyboard works well enough. And I think that was enough yapping, so, heres some pics!!
+#### So I did something very stupid, the neopixles, sk6812 mini-e and normal sk6812 have the same looking symbols in KiCAD, BUT the one and only difference is that the pin numbers, according to the datasheet for the mini-e variant it doesn't match, so the connections and traces are faulty. This leads to a failure in the basic pcb which can not be fixed/patched in anyway after production. But still the keyboard works well enough. And I think that was enough yapping, so, heres some pics!!
+
+https://github.com/user-attachments/assets/bb973c62-ae0b-457b-894d-c5b485d0465b
+
+https://github.com/user-attachments/assets/a8adbe74-d3f2-401a-ac2d-03d99a9797de
+
+<img width="1600" height="1200" alt="Build Pt2" src="https://github.com/user-attachments/assets/151a080d-3651-4b57-8731-dce127b4c36b" />
+
+<img width="1600" height="900" alt="Finished Build" src="https://github.com/user-attachments/assets/75f539aa-bbc4-4d88-ac7d-9332d0fe2dea" />
+
+<img width="1600" height="1200" alt="Finished(withStabs)" src="https://github.com/user-attachments/assets/353f684d-6028-4c31-88dc-8564d64242e6" />
+
+<img width="1600" height="900" alt="clone soldered on" src="https://github.com/user-attachments/assets/14f3abb3-b866-456b-8c97-be3bca3a8324" />
 
 ## Bill of Materials (BOM)
 
