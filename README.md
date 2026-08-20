@@ -120,27 +120,19 @@ https://github.com/user-attachments/assets/a8adbe74-d3f2-401a-ac2d-03d99a9797de
 
 ## Bill of Materials (BOM)
 
-| SI No. | Name | Notes | Qty | Price/Unit | Total | Running Total | Link |
-|------:|------|-------|----:|-----------:|------:|--------------:|------|
-| 1 | Keygeek x MZ Y1 Keyboard Switch (Pack of 10) | MX compatible switches | 7 | ₹300 | ₹2,100 | ₹2,100 | [Buy](https://stackskb.com/store/keygeek-y1-keyboard-switch/) |
-| 2 | PCB (JLC Sponsored) | Sponsored PCB from JLCPCB | 1 | ₹200 | ₹200 | ₹2,300 | [JLCPCB](https://jlcpcb.com/) |
-| 3 | Durock Clear Screw-In Stabilizers V2 | Screw-in stabs | 1 | ₹1,600 | ₹1,600 | ₹3,900 | [Buy](https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/) |
-| 4 | Gateron Hotswap Sockets | Hotswap sockets | 70 | ₹10 | ₹700 | ₹4,600 | [Buy](https://stackskb.com/store/gateron-hotswap-sockets/) |
-| 5 | 1N4148 SOD-123 SMD Diode (Pack of 10) | Diodes | 7 | ₹15 | ₹105 | ₹4,705 | [Buy](https://stackskb.com/store/1n4148-sod-123-smd-diode/) |
-| 6 | Ykyio Keycap Set | Keycaps | 1 | ₹2,999 | ₹2,999 | ₹7,704 | [Buy](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/ykyio-keycap-set/) |
-| 7 | Raspberry Pi Pico | MCU | 1 | ₹349 | ₹349 | ₹8,053 | [Buy](https://makerbazar.in/products/raspberry-pi-pico-development-boards?variant=48251026899184) |
-| 8 | Brass Heat Set Insert M3 | Heat-set inserts | 1 | ₹149 | ₹149 | ₹8,202 | [Buy](https://makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut?variant=48339035455728) |
-| 9 | Philips Head Nuts & Bolts Set (Silver Plated) - Pack of 10 | Mounting hardware | 1 | ₹99 | ₹99 | ₹8,301 | [Buy](https://makerbazar.in/products/philips-head-nuts-bolts-set-silver-plated-pack-of-10) |
-| 10 | OPSCO Optoelectronics SK6812MINI-E | Per-key RGB LEDs | 70 | — | — | — | [Buy](https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html) |
+| SI No. | Name                                         | Notes                     | Quantity | Price Per Unit (₹) | Total (₹) | Running Total (₹) | Price/Unit (USD) | Total (USD) | Running Total (USD) | Link                                                                                                    |
+| -----: | -------------------------------------------- | ------------------------- | -------: | -----------------: | --------: | ----------------: | ---------------: | ----------: | ------------------: | ------------------------------------------------------------------------------------------------------- |
+|      1 | Keygeek x MZ Y1 Keyboard Switch (Pack of 10) | MX compatible switches    |        7 |                300 |      2100 |              2100 |             3.16 |       22.11 |               22.11 | stackskb.com/store/keygeek-y1-keyboard-switch/                                                          |
+|      2 | PCB (JLC Sponsored)                          | Sponsored PCB from JLCPCB |        1 |                200 |       200 |              2300 |             2.11 |        2.11 |               24.21 | jlcpcb.com                                                                                              |
+|      3 | Durock Clear Screw-In Stabilizers V2         | Screw-in stabs            |        1 |               1600 |      1600 |              3900 |            16.84 |       16.84 |               41.05 | stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                                                |
+|      4 | Gateron Hotswap Sockets                      | Hotswap sockets           |       70 |                 10 |       700 |              4600 |             0.11 |        7.37 |               48.42 | stackskb.com/store/gateron-hotswap-sockets/                                                             |
+|      5 | 1N4148 SOD-123 SMD Diode (Pack of 10)        | N-key rollover            |        7 |                 20 |       140 |              4740 |             0.21 |        1.47 |               49.89 | stackskb.com/store/1n4148-sod-123-smd-diode/                                                            |
+|      6 | Ykyio Keycap Set                             | Keycaps                   |        1 |              1,599 |      1599 |              6339 |            16.83 |       16.83 |               66.73 | meckeys.com/shop/accessories/keyboard-accessories/keycaps/ykyio-keycap-set/                             |
+|      7 | Pico                                         | MCU                       |        1 |                450 |       450 |              6789 |             4.74 |        4.74 |               71.46 | makerbazar.in/products/luatos-usb-c-raspberry-pi-pico-development-board-based-on-rp2040-microcontroller |
+|      8 | Heat Set Insert                              | M3                        |        7 |                 15 |       105 |              6894 |             0.16 |        1.11 |               72.57 | makerbazar.in/products/brass-heat-set-threaded-round-female-insert-nut                                  |
+|      9 | Screw Philips                                | Pack of 10                |        1 |                 25 |        25 |              6919 |             0.26 |        0.26 |               72.83 | makerbazar.in/products/philips-head-nuts-bolts-set-silver-plated-pack-of-10                             |
+|     10 | Neopixels (SK6812 Mini-E)                    | LCSC                      |      100 |                 19 |      1900 |              8819 |             0.20 |       20.00 |               92.83 | lcsc.com/product-detail/Light-Emitting-Diodes-LED_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html      |
 
-### Cost Summary
-
-| Item | Cost |
-|------|-----:|
-| Total Cost | ₹8,819 |
-| Total (USD) | **$90.92** |
-| Rounded Total | **$91** |
-| Estimated Total (Including Tax & Shipping) | **$95** |
 
 ## Credits
 
